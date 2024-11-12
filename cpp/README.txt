@@ -1,5 +1,5 @@
 This is cpp test file for WGA
-Author : Yi-Chun, Hsu (b10502070)
+Author : Yi-Chun Hsu
 Latest edition : 2024/5/10
 
 How to use:
