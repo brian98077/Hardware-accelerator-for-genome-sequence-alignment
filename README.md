@@ -5,7 +5,7 @@ Latest edition : 2024/6/14
 
 for cpp test files  
     $ make  
-    $ ./bin/wga_final <input file> <output file> <bandwidth of BSW> <parameter of GACT-X>  
+    $ ./bin/wga_final \<input file> \<output file> \<bandwidth of BSW> \<parameter of GACT-X>  
 
     For the visualized DP matrix, please refer to the file:  
     ./cpp/src/genome_alignment_visualize.cpp  
